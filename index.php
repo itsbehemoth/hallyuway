@@ -12,4 +12,4 @@
     require_once(CONTENT . 'index/jumbotron.php');
     require_once(CONTENT . 'index/chart.php');
     require_once(CONTENT . 'index/newest.php');
-    require_once(CONTENT . 'content/global/footer.php');
+    require_once(CONTENT . 'global/footer.php');
